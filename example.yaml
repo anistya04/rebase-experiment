@@ -7,14 +7,18 @@ format:
   - yaml:
       name: "YAML Ain't Markup Language"
       type: awesome
-      born: 1999
+      release: 1999
   - json:
       name: JavaScript Object Notation
       type: great
-      born: 1999
+      release: 1999
   - xml:
       name: Extensible Markup Language
       type: good
-      born: 1999
+      release: 1999
+  - html:
+      name: HyperText Markup Language
+      type: Meh
+      release: 1999
 author: anis
 published: true
