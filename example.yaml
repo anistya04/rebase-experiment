@@ -16,5 +16,9 @@ format:
       name: Extensible Markup Language
       type: good
       born: 1999
+  - javascript: 
+      name: JavaScript
+      type: bad
+      release: 2001
 author: anis
 published: true
